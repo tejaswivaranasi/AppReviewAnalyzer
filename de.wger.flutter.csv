@@ -1,0 +1,10 @@
+Package name,Reviewer name,Review,Rating
+de.wger.flutter,Austin,"This app is a simple workout tracker at first glance, but has very detailed information available- from the reports to the workout descriptions and images, it's impressive for something that the developer has made fully open-source and self hostable. The developer was very responsive for technical support and assisted in setup directly; not something you can say often! Hoping for the ability to import workout logs from CSV or other 'bulk import' functionality to make migration easier!",5
+de.wger.flutter,Yulia B.,Clicked to register an account. Made one on the website it directed to. Tried to log in with the app and couldn't. Verified my email too. Got this error FormatException: Unexpected character (at character 1) A,1
+de.wger.flutter,Trent Bell,"A good start, but needs major work",2
+de.wger.flutter,Morgan Kinnaman,Has issues with standard/imperial inputs otherwise a nice app. Setting unit preferences in account creation would help. Also even after units are updated BMI remains metric.,3
+de.wger.flutter,K R.,Isn't working. Gives HandshakeException: Handshake error in client (OS Error: CERTIFICATE_VERIFY_FAILED: certificate has expired(handshake.cc:359)) error.,1
+de.wger.flutter,aditya Umak,No dark theme! My eyes are burning,4
+de.wger.flutter,Diego Alejandro Sarmiento Muñoz,"I really like the app, I strongly encourage the developers to keep working on it!",5
+de.wger.flutter,Alan Stewart,"The app is good, however I think it needs to add more examples and also to be able to view a list of the workouts within the app by muscle group/equipment just like the website.",3
+de.wger.flutter,Chris S. E.,Klasse App um sich seinen optimalen Trainingsplan zu erstellen! Nur zu empfehlen!,5
